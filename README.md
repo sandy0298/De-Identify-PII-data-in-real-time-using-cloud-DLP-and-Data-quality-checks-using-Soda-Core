@@ -15,3 +15,7 @@ Introducing the Audio PII Detection and De-Identification project—a comprehens
 <img src ="https://logos-world.net/wp-content/uploads/2022/02/ServiceNow-Symbol.png" width="100" height="100" alt="ServiceNow"/> &emsp;
 <img src ="https://i.pinimg.com/originals/8d/39/f3/8d39f3958e82028615cdedacb496a114.jpg" width="170" height="100" alt="SMTP"/> &emsp;
 <img src ="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="170" height="100" alt="Python"/> &emsp;
+
+## Architecture Diagram
+
+<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/68b7b782e859755bd9d759056543563ca7c6d45e/screenshots/dlp_checkv1.png" width="900" height="700" alt="architecture"/> &emsp;
