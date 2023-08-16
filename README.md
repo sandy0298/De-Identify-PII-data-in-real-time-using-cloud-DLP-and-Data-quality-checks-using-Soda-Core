@@ -10,11 +10,11 @@ Introducing the Audio PII Detection and De-Identification project—a comprehens
 <img src ="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png" width="170" height="100" alt="Google Big Query"/> &emsp;
 <img src ="https://miro.medium.com/v2/resize:fit:584/1*q4EVSAndlvgFLyR6ncc4Bg.png" width="170" height="100" alt="Google cloud Functions"/> &emsp;
 <img src ="https://assets.website-files.com/618399cd49d125734c8dec95/63905b4ecedc3f60172bcd63_vertexai.png" width="170" height="100" alt="Vertex AI"/> &emsp;
-<img src ="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1685918308/hevo-learn-1/Firestore-Data-Model-firestore-logo.png?_i=AA" width="170" height="100" alt="Google cloud Firestore"/> &emsp;
 <img src ="https://miro.medium.com/v2/resize:fit:961/1*tQKERQdZsjUArxXjaHo9PA.png" width="170" height="100" alt="Secret Manager"/> &emsp;
 <img src ="https://logos-world.net/wp-content/uploads/2022/02/ServiceNow-Symbol.png" width="100" height="100" alt="ServiceNow"/> &emsp;
 <img src ="https://i.pinimg.com/originals/8d/39/f3/8d39f3958e82028615cdedacb496a114.jpg" width="170" height="100" alt="SMTP"/> &emsp;
 <img src ="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="170" height="100" alt="Python"/> &emsp;
+<img src ="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsodadata%2Fsoda-core&psig=AOvVaw0wcZh1mOTQI5mu7zKvU9iT&ust=1692258357313000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPix7-PX4IADFQAAAAAdAAAAABAE" width="170" height="100" alt="Python"/> &emsp;
 
 ## Architecture Diagram
 
