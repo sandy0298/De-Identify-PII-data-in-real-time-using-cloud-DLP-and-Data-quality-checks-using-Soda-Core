@@ -1,0 +1,1 @@
+python3 /home/sandeepdev751/dlp_dataflow.py --runner DataflowRunner --project sandydev  --region us-central1 --job_name dlpcheckerv1 --temp_location  gs://sandydev/temp  --dfBucket "sandydev" --setup_file /home/sandeepdev751/setup.py
