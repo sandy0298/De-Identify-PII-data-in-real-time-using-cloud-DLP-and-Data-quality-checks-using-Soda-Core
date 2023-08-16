@@ -18,6 +18,6 @@ Introducing the Audio PII Detection and De-Identification project—a comprehens
 
 ## Architecture Diagram
 
-<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/68b7b782e859755bd9d759056543563ca7c6d45e/screenshots/dlp_checkv1.png" width="800" height="900" alt="architecture"/> &emsp;
+<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/68b7b782e859755bd9d759056543563ca7c6d45e/screenshots/dlp_checkv1.png" width="1000" height="900" alt="architecture"/> &emsp;
 
 
