@@ -42,6 +42,10 @@ To maintain a high standard of data quality and accuracy, the pipeline integrate
 
 This dynamic project highlights the potential of real-time data processing, PII management, and data quality assessment within the GCP ecosystem. By harnessing the power of GCP services, such as Speech to Text API, Cloud DLP API, Pub/Sub, BigQuery, and Looker, it offers a comprehensive solution for organizations aiming to process and manage audio data in a secure, efficient, and insightful manner and also leverages the power of Soda Core.
 
+## Link to Dashboard
+
+https://lookerstudio.google.com/reporting/5678d616-602c-4a0b-9f77-e4cf19f46c0a
+
 
 
 
