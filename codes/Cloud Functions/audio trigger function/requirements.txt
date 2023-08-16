@@ -1,7 +1,0 @@
-google-cloud-pubsub==2.7.0
-google-cloud-speech==2.7.0
-google-cloud-storage==1.42.0
-ffmpeg-python==0.2.0
-pytz
-mutagen
-pydub
