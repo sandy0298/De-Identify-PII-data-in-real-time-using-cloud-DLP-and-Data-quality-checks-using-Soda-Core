@@ -1,2 +1,3 @@
 # De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core
-This Projects finds PII data in real-time and masks them and uses Soda Core for Data quality Checks.
+
+Introducing the Audio PII Detection and De-Identification project—a comprehensive solution to identify and protect Personally Identifiable Information (PII) within audio interactions. This system utilizes advanced speech recognition and Cloud DLP to identify PII in audio files, ensuring data privacy. Detected PII is automatically de-identified using Cloud DLP, preserving anonymity. Alerts are sent to BigQuery owners, and ServiceNow tickets are generated for immediate action. Leveraging Soda's data quality tools, we ensure post-processing data integrity. Elevate your data security while maintaining quality with our integrated workflow.
