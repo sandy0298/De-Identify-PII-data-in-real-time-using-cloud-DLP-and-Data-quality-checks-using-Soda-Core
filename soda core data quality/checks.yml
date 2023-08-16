@@ -1,0 +1,10 @@
+checks for raw_data:
+  - row_count > 0
+  - max_length(credit_card_no) = 16:
+      name: creditcard
+  - missing_count(credit_card_no):
+      fail: when != 0
+  - failed rows:
+      fail query: |
+        SELECT * 
+        FROM raw_data where length(mobile_number) < 10
