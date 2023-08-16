@@ -48,14 +48,14 @@ https://lookerstudio.google.com/reporting/5678d616-602c-4a0b-9f77-e4cf19f46c0a
 
 ## ServiceNow Dashboard
 
-<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/main/screenshots/SERVICENOW.png" width="800" height="600" alt="report2"/> &emsp;
+<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/main/screenshots/SERVICENOW.png" width="900" height="400" alt="report2"/> &emsp;
 
 ## Soda Core Data Quality
-<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/main/screenshots/soda1.png" width="800" height="600" alt="report2"/> &emsp;
+<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/main/screenshots/soda1.png" width="900" height="400" alt="report2"/> &emsp;
 
-<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/main/screenshots/sod2.png" width="800" height="600" alt="report2"/> &emsp;
+<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/main/screenshots/sod2.png" width="900" height="400" alt="report2"/> &emsp;
 
-<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/main/screenshots/soda3.png" width="800" height="600" alt="report2"/> &emsp;
+<img src ="https://github.com/sandy0298/De-Identify-PII-data-in-real-time-using-cloud-DLP-and-Data-quality-checks-using-Soda-Core/blob/main/screenshots/soda3.png" width="900" height="400" alt="report2"/> &emsp;
 
 
 
